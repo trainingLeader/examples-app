@@ -1,2 +1,2 @@
-Ejemplos Obtenidos documentació Lit
+Ejemplos Obtenidos documentación Lit
 https://lit.dev/playground
